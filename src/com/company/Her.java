@@ -10,4 +10,8 @@ public class Her {
     public void setId(int id) {
         this.id = id;
     }
+
+    public Her(int id) {
+        this.id = id;
+    }
 }
